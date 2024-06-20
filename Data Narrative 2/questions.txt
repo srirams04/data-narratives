@@ -1,0 +1,14 @@
+AAUP:
+Q1: Which state should an academician prefer to re-locate to based on the median of the average incomes of his/her rank across states (full, associate, assistant)?
+Q2: Find the top 10 states to spend the highest amount on the salary and compensation of professors (all ranks)? This analysis is made to understand the educational inclination of different states.
+Q3: As a follow-up to the purpose of Q2, find the total number of professors (all ranks) state by state.
+Q4: Universities on the east coast of the U.S. have strong competition with the ones on the west coast. They can be compared based on the proportion of full professors amongst all ranks of professors considering only the top 5 colleges on each coast. The top 5 colleges are decided based on the amount spent on the faculty.
+Q5: 
+
+
+USNEWS:
+Q1: Does the quality of students entering a college directly affect the graduation rate? Quality of students entering a college can be estimated based on the SAT scores. 10 colleges are to be selected randomly for the above study.
+Q2: Consider Harvard University, Massachusetts Institute of Technology (MIT), Stanford University, California Institute of Technology (Caltech) and Princeton University, which are among the top 10 colleges in the US. Compare the acceptance and joining rates of these colleges. 
+Q3: What is the trend in the average difference between the in-state tuition and the out-of-state tuition across the states?
+Q4: What is the trend in the average of the total amount spent by students across the states? This analysis is made to help high school students from other countries decide a suitable state in the US to pursue further education based on their budget.
+Q5: 
